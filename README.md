@@ -1,4 +1,5 @@
 # Beego [![Build Status](https://travis-ci.org/beego/beego.svg?branch=master)](https://travis-ci.org/beego/beego) [![GoDoc](http://godoc.org/github.com/beego/beego?status.svg)](http://godoc.org/github.com/beego/beego) [![Foundation](https://img.shields.io/badge/Golang-Foundation-green.svg)](http://golangfoundation.org) [![Go Report Card](https://goreportcard.com/badge/github.com/beego/beego)](https://goreportcard.com/report/github.com/beego/beego)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanielbh%2Fbeego.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanielbh%2Fbeego?ref=badge_shield)
 
 Beego is used for rapid development of enterprise application in Go, including RESTful APIs, web apps and backend
 services.
@@ -98,3 +99,6 @@ Congratulations! You've just built your first **beego** app.
 
 beego source code is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanielbh%2Fbeego.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanielbh%2Fbeego?ref=badge_large)
